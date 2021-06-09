@@ -9,7 +9,7 @@
     <Grid Height="425" VerticalAlignment="Top" HorizontalAlignment="Left" Width="521">
         <Button x:Name="btnFolderSelect" Content="Выбрать папку" HorizontalAlignment="Left" Margin="412,10,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click"/>
         <TextBox x:Name="tbxFolder" HorizontalAlignment="Left" Height="23" Margin="10,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="397"/>
-        <Button x:Name="btnGetMethodList" Content="Список методов" HorizontalAlignment="Left" Margin="29,53,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button x:Name="btnGetMethodList" Content="Список методов" HorizontalAlignment="Left" Margin="29,53,0,0" VerticalAlignment="Top" Width="131" Click="Button_Click_1"/>
         <TreeView x:Name="tvwMethodList" HorizontalAlignment="Left" Height="319" Margin="10,90,0,0" VerticalAlignment="Top" Width="501"/>
 
     </Grid>
